@@ -92,7 +92,7 @@ Partial Class Form1
         Me.GunaLabel2.AutoSize = True
         Me.GunaLabel2.Font = New System.Drawing.Font("Segoe UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GunaLabel2.ForeColor = System.Drawing.Color.White
-        Me.GunaLabel2.Location = New System.Drawing.Point(71, 172)
+        Me.GunaLabel2.Location = New System.Drawing.Point(70, 170)
         Me.GunaLabel2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.GunaLabel2.Name = "GunaLabel2"
         Me.GunaLabel2.Size = New System.Drawing.Size(364, 32)
